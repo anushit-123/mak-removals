@@ -1575,7 +1575,7 @@ background-color: #2c779f;
 .navbar-area .nav-container .navbar-collapse .navbar-nav li a {
   color: var(--heading-color);
   font-weight: 500;
-  font-size: 16px;
+  font-size: 15px;
 }
 .navbar-area .nav-container .navbar-collapse .navbar-nav li:hover a {
   color: var(--main-color);
