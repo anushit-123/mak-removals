@@ -1564,7 +1564,7 @@ background-color: #2c779f;
 .navbar-area .nav-container .navbar-collapse .navbar-nav {
   display: block;
   width: 100%;
-  text-align: left;
+  text-align: center;
 }
 .navbar-area .nav-container .navbar-collapse .navbar-nav li {
   display: inline-block;
