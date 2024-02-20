@@ -463,24 +463,7 @@
 })(jQuery);
 
 
-document.addEventListener("DOMContentLoaded", function () {
-    // Function to close the modal
-    function closeModal() {
-        document.getElementById("modal").style.display = "none";
-    }
 
-    // Show the modal on page load
-    document.getElementById("modal").style.display = "block";
-
-    // Close the modal when close button is clicked
-    document.getElementById("close").addEventListener("click", closeModal);
-
-    // Close the modal when clicking outside of it
-    document.querySelector(".bg").addEventListener("click", closeModal);
-
-    // Close the modal when cancel button is clicked
-    document.querySelector(".cta button:nth-of-type(2)").addEventListener("click", closeModal);
-});
 
 
 
